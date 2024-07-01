@@ -1,0 +1,26 @@
+
+
+/* this is the css for Main-Div-Editor */
+.main-code-editor-div {
+    max-width: 800px;
+    max-height: max-content;
+    margin: 0 auto;
+    border: 2px solid #070101;
+    border-radius: 5px;
+
+    font-family: sans-serif;
+    font-size: 30px;
+    -webkit-text-fill-color: none !important;
+}
+
+
+
+
+/* fthis the the css for the Editor */
+.editor {
+    min-height: 300px;
+    outline: none;
+    white-space: pre-wrap;
+    -webkit-text-fill-color: none !important;
+}
+

@@ -1,0 +1,8 @@
+:root{
+box-sizing: border-box;
+}
+
+::selection{
+  background-color: lightblue !important;
+  color: white !important;
+}
